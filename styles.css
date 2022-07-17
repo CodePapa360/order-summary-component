@@ -117,6 +117,7 @@ p{
     display: block;
     border-radius: 0.625rem;
     transition: background-color 0.2s ease ;
+    box-shadows: 0px 10px 10px 10px var(--Bright-blue);
 }
 
 .pay-btn:hover,
