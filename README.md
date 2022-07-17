@@ -6,7 +6,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- [Live Site URL:](https://codepapa360.github.io/QR-code-component/)
+- [Live Site URL:](https://codepapa360.github.io/order-summary-component/)
 
 ## My process
 
